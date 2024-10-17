@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/TP_IMC/tp_imc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/TP_IMC/tp_imc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/TP_IMC/tp_imc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/calculateur/calculator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/calculateur/calculator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/calculateur/calculator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tp_casino/tp_casino/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tp_casino/tp_casino/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tp_casino/tp_casino/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
