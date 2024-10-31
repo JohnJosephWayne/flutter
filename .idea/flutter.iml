@@ -12,6 +12,12 @@
       <excludeFolder url="file://$MODULE_DIR$/tp_casino/tp_casino/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/tp_casino/tp_casino/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/tp_casino/tp_casino/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pomme_poire_ananas/pomme_poire_ananas/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pomme_poire_ananas/pomme_poire_ananas/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pomme_poire_ananas/pomme_poire_ananas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tintin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tintin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tintin/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
